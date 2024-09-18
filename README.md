@@ -2,6 +2,8 @@
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=A-Nama"/>
 
+<img alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nama&layout=compact"/>
+
 🎓 **Data Science & AI sophomore** at CUSAT  
 💡 Passionate about building projects that make a positive impact  
 🌌 Astrophile with a love for **stargazing** and exploring the mysteries of the universe  
