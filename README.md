@@ -1,4 +1,4 @@
-# Hi there, I'm Aisha! 👋
+# Hi there, I'm Aisha Nama! 👋
 
 🎓 **Data Science & AI sophomore** at CUSAT  
 💡 Passionate about building projects that make a positive impact  
