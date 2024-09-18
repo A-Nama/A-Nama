@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Aisha! 👋
 
-<!--
-**A-Nama/A-Nama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Nama)](https://github.com/A-Nama/github-readme-stats)
 
-Here are some ideas to get you started:
+🎓 **Data Science & AI sophomore** at CUSAT  
+💡 Passionate about building projects that make a positive impact  
+🌌 Astrophile with a love for **stargazing** and exploring the mysteries of the universe  
+🚀 Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me on my journey through tech!
+
+---
+
+📫 **Let's connect!**  
+Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/) 💼 – I'd love to chat about tech, innovation, and anything in between!
