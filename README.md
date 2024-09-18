@@ -1,6 +1,6 @@
 # Hi there, I'm Aisha! 👋
 
-[![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Nama&show_icons=true)](https://github.com/A-Nama/github-readme-stats&show_icons=true)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=A-Nama"/>
 
 🎓 **Data Science & AI sophomore** at CUSAT  
 💡 Passionate about building projects that make a positive impact  
