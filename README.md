@@ -3,7 +3,7 @@
 🎓 **Data Science & AI sophomore** at CUSAT  
 💡 Passionate about building projects that make a positive impact  
 🌌 Astrophile with a love for **stargazing** and exploring the mysteries of the universe  
-🚀 Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead**
+🚀 Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
 
 Feel free to explore my repositories and connect with me on my journey through tech!
 
