@@ -8,7 +8,7 @@
 ### Currently
 - Leading tech at **CodeSakhi**
 - Exploring data science through projects & research
-- Always in the middle of something new
+- Trying to get through my impossible TBR
 ---
  
 ### What you'll find here
@@ -24,4 +24,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/)  – I'
 
 <img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nama&layout=compact"/>
 
-> *Building tech that's good for people and the planet*
+---
+>*Building tech that's good for people and the planet*
