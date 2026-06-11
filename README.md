@@ -1,5 +1,8 @@
 # Hi there, I'm Aisha Nama! 👋
+---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -26,8 +29,6 @@ Coursework, personal projects, and experiments — some polished, some very much
 Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/)  – I'd love to chat about tech, innovation, and anything in between!
 
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=A-Nama"/>
-
-<img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nama&layout=compact"/>
 
 ---
 > *Building tech that's good for people and the planet*
