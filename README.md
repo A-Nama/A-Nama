@@ -25,4 +25,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/)  – I'
 <img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nama&layout=compact"/>
 
 ---
-*Building tech that's good for people and the planet*
+> *Building tech that's good for people and the planet*
