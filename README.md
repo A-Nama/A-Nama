@@ -1,12 +1,20 @@
 # Hi there, I'm Aisha Nama! 👋
 
- **Data Science & AI sophomore** at CUSAT  
- Passionate about building projects that make a positive impact  
- Astrophile with a love for **stargazing** and exploring the mysteries of the universe  
- Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
+ - **Data Science & AI undergrad** at CUSAT  
+ - Solarpunk is the vision; code is the tool.
+ - Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
 
-Feel free to explore my repositories and connect with me on my journey through tech!
-
+---
+### Currently
+- Leading tech at **CodeSakhi**
+- Exploring data science through projects & research
+- Always in the middle of something new
+---
+ 
+### What you'll find here
+ 
+Coursework, personal projects, and experiments — some polished, some very much in progress. Don't judge me.
+ 
 ---
 
  **Let's connect!**  
@@ -15,3 +23,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/)  – I'
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=A-Nama"/>
 
 <img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nama&layout=compact"/>
+
+> *Building tech that's good for people and the planet*
