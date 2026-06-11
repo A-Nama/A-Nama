@@ -1,5 +1,8 @@
 # Hi there, I'm Aisha Nama! 👋
----
+
+ - **Data Science & AI undergrad** at CUSAT  
+ - Solarpunk is the vision; code is the tool.
+ - Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -7,11 +10,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
- - **Data Science & AI undergrad** at CUSAT  
- - Solarpunk is the vision; code is the tool.
- - Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
-
 ---
 ### Currently
 - Leading tech at **CodeSakhi**
@@ -30,5 +28,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aisha-nama-06256b253/)  – I'
 
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=A-Nama"/>
 
----
+<br clear="both"/>
+
 > *Building tech that's good for people and the planet*
