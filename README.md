@@ -3,6 +3,7 @@
  - **Data Science & AI undergrad** at CUSAT  
  - Solarpunk is the vision; code is the tool.
  - Fully embracing the maker spirit as the **TinkerHub DCS Campus Lead 2024**
+   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
